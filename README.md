@@ -16,7 +16,8 @@
 or through my email  (aliyuahmad1996@gmail.com)
 - 😆 Fun fact: When i drink coffee i code alot!!   
 I Love Coding!!
-![](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)      
+
+![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)      
 
 ### 🔭 I’m currently working on:                    
 
