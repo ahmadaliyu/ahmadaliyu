@@ -31,6 +31,10 @@ I Love Coding!!
 - Design Systems
 - Data structures and Algorithm
 
+#### 📝 Latest publication
+
+![](https://medium.com/@aliyuahmad1996/intelligent-tourist-information-system-936ae9462d86)
+
 #### 🔨 Languages and tools
 
 ![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg)
