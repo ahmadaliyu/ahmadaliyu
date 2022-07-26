@@ -20,6 +20,7 @@
 ![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg)
 ![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg)
 ![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg)
+![](https://camo.githubusercontent.com/22bcf942a663f1b9ecee5f745633343bd504f5627731886f2a4660d6b1f832c2/68747470733a2f2f64657369676e2e6a626f73732e6f72672f717561726b75732f6c6f676f2f66696e616c2f504e472f717561726b75735f6c6f676f5f686f72697a6f6e74616c5f7267625f3132383070785f726576657273652e706e672367682d6461726b2d6d6f64652d6f6e6c79)
 
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
