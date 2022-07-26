@@ -19,7 +19,7 @@ or through my email  (aliyuahmad1996@gmail.com)
 - NippyEats mobile app (React Native)                  
 - My old projects
 - LearnSmart Mobile (React Native | Typescript)                       
-<img src="(https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="40" height="40" />
+<img src="(https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200" height="200" />
 
 ### 🌱 I’m currently learning
 
