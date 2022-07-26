@@ -1,5 +1,6 @@
 ### Hi! I am Ahmad 👋
 
+![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliyu&theme=aura_dark&show_icons=true&count_private=true)
