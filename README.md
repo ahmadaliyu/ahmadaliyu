@@ -1,7 +1,5 @@
 ### Hi! I am Ahmad 👋
 
-![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliyu&theme=aura_dark&show_icons=true&count_private=true)
 
@@ -16,6 +14,10 @@
 - 😆 Fun fact: When i drink coffee i code alot
 
 #### 🔨 Languages and tools
+
+![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg)
+![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg)
+![](![image](https://user-images.githubusercontent.com/32324434/181023101-b7b2e0e0-0ea9-4ba6-8b12-33c1ba8423dd.png))
 
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
