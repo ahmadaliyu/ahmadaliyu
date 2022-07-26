@@ -12,7 +12,8 @@
 - 📫 You can reach me out on LinkIdn 
 [https://www.linkedin.com/in/ahmad-aliyu-b13345178](https://www.linkedin.com/in/ahmad-aliyu-b13345178)   
 or through my email  (aliyuahmad1996@gmail.com)
-- 😆 Fun fact: When i drink coffee i code alot         ![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
+- 😆 Fun fact: When i drink coffee i code alot         
+ ![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
 
 ### 🔭 I’m currently working on:
 
