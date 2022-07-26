@@ -1,5 +1,5 @@
 ### Hi! I am Ahmad (Techgee) 👋
-![](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg) ![](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg) I am a software developer who love working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects
+![](http://www.twitter.com/carlsednaoui) ![](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg) I am a software developer who love working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliyu&theme=aura_dark&show_icons=true&count_private=true)
 
