@@ -1,6 +1,6 @@
-### Hi! I am Ahmad (Techgee) 👋
+### Hi!, I'm Ahmad (Techgee) 👋
 
-I am a software developer who love working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects
+I'm a software developer who love working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliyu&theme=aura_dark&show_icons=true&count_private=true)
 
