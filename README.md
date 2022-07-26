@@ -15,7 +15,7 @@
 
 ## 🔨 Technology Stack:
 
-!(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/javascript_1.png]
+[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/javascript_1.png]
 
 
 <!--
