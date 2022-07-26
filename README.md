@@ -5,7 +5,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaliyu&layout=compact&theme=codeSTACKr)
 
-# :wink: More About Me
+#### :wink: More About Me
 - 🔭 I’m currently working on NippyEats mobile app
 - 🌱 I’m currently learning Software Engineering best practices
 - 👯 I’m looking to collaborate on Blockchain technology and web 3.0 projects 
@@ -13,7 +13,7 @@
 - 📫 You can reach me out on LinkIdn [https://www.linkedin.com/in/ahmad-aliyu-b13345178](https://www.linkedin.com/in/ahmad-aliyu-b13345178) or through my email (aliyuahmad1996@gmail.com)
 - 😆 Fun fact: When i drink coffee i code alot
 
-# 🔨 Technology Stack:
+#### 🔨 Technology Stack:
 
 !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/javascript_1.png]
 
