@@ -1,6 +1,6 @@
 ### Hi! I am Ahmad 👋
 
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://uk.linkedin.com/in/praveentech/)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliyu&theme=aura_dark&show_icons=true&count_private=true)
 
