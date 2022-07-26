@@ -14,11 +14,11 @@
 or through my email  (aliyuahmad1996@gmail.com)
 - 😆 Fun fact: When i drink coffee i code alot         
 
-### 🔭 I’m currently working on:
+### 🔭 I’m currently working on:                    ![](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)
 
-- NippyEats mobile app (React Native)
+- NippyEats mobile app (React Native)                  
 - My old projects
-- LearnSmart Mobile (React Native | Typescript)                       ![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif =100x20)
+- LearnSmart Mobile (React Native | Typescript)                       
 
 
 ### 🌱 I’m currently learning
