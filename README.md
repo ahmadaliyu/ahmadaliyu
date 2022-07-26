@@ -5,7 +5,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaliyu&layout=compact&theme=codeSTACKr)
 
-#### :wink: More About Me ![](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)
+#### :wink: More About Me 
 
 - 👯 I’m looking to collaborate on Blockchain technology and web 3.0 projects                           
 - 💬 Ask me anything about tech related and i'm happy to help
@@ -19,7 +19,7 @@ or through my email  (aliyuahmad1996@gmail.com)
 - NippyEats mobile app (React Native)                  
 - My old projects
 - LearnSmart Mobile (React Native | Typescript)                       
-
+<img src="(https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="40" height="40" />
 
 ### 🌱 I’m currently learning
 
