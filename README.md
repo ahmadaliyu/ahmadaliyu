@@ -13,14 +13,16 @@
 - 😆 Fun fact: When i drink coffee i code alot
 
 ### 🔭 I’m currently working on:
-. NippyEats mobile app (React Native)
-. My old projects
-. LearnSmart Mobile (React Native | Typescript)
+
+- NippyEats mobile app (React Native)
+- My old projects
+- LearnSmart Mobile (React Native | Typescript)
 - 
 ### 🌱 I’m currently learning
-. Software Engineering best practices
-. Design Systems
-. Data structures and Algorithm
+
+- Software Engineering best practices
+- Design Systems
+- Data structures and Algorithm
 
 #### 🔨 Languages and tools
 
