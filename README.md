@@ -7,19 +7,22 @@
 
 #### :wink: More About Me 
 
+
+
 - 👯 I’m looking to collaborate on Blockchain technology and web 3.0 projects                           
 - 💬 Ask me anything about tech related and i'm happy to help
 - 📫 You can reach me out on LinkIdn 
 [https://www.linkedin.com/in/ahmad-aliyu-b13345178](https://www.linkedin.com/in/ahmad-aliyu-b13345178)   
 or through my email  (aliyuahmad1996@gmail.com)
-- 😆 Fun fact: When i drink coffee i code alot         
+- 😆 Fun fact: When i drink coffee i code alot!!   
+I Love Coding!!
+![](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)      
 
 ### 🔭 I’m currently working on:                    
 
 - NippyEats mobile app (React Native)                  
 - My old projects
 - LearnSmart Mobile (React Native | Typescript)                       
-<img src="(https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200" height="200" />
 
 ### 🌱 I’m currently learning
 
