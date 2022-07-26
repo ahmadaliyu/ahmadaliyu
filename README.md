@@ -5,7 +5,9 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaliyu&layout=compact&theme=codeSTACKr)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ahmadaliyu&repo=githubfinder&show_owner=true)](https://github.com/ahmadaliyu/githubfinder)
+More About Me
+
+
 <!--
 **ahmadaliyu/ahmadaliyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
