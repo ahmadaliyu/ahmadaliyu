@@ -1,11 +1,11 @@
-### Hi! I am Ahmad 👋
-
+### Hi! I am Ahmad (Techgee) 👋
+ I am a software developer who love working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliyu&theme=aura_dark&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaliyu&layout=compact&theme=codeSTACKr)
 
-#### :wink: More About Me
+#### :wink: More About Me     ![](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)
 
 - 👯 I’m looking to collaborate on Blockchain technology and web 3.0 projects 
 - 💬 Ask me anything about tech related and i'm happy to help
@@ -17,7 +17,7 @@
 - NippyEats mobile app (React Native)
 - My old projects
 - LearnSmart Mobile (React Native | Typescript)
-- 
+
 ### 🌱 I’m currently learning
 
 - Software Engineering best practices
@@ -35,7 +35,6 @@
 ![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg)
 ![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg)
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
 <!--
 **ahmadaliyu/ahmadaliyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
