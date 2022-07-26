@@ -1,5 +1,6 @@
 ### Hi! I am Ahmad (Techgee) 👋
-![](http://www.twitter.com/carlsednaoui) [![alt text][1.1]][1] I am a software developer who love working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects
+
+I am a software developer who love working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliyu&theme=aura_dark&show_icons=true&count_private=true)
 
