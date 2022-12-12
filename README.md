@@ -1,4 +1,4 @@
-### Hi! 👋, I'm Ahmad (Techgee) 
+### Hi! 👋, I'm Ahmad (Dimacode) 
 
 I'm a software developer who love working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects
 
