@@ -22,7 +22,7 @@ I Love Coding!!
 
 ### 🔭 I’m currently working on:                    
 
-- NippyEats mobile app (React Native)                  
+- Loopscribe mobile app (React Native)                  
 - My old projects
 - LearnSmart Mobile (React Native | Typescript)                       
 
