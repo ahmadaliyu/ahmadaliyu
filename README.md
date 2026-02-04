@@ -39,12 +39,10 @@ I Love Coding!!
 
 ![JavaScript](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg)
 ![TypeScript](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg)
-![Solidity](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/solidity/solidity.svg)
 ![React](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg)
 ![Node.js](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg)
 ![Git](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg)
-![Ethereum](https://cryptologos.cc/logos/ethereum-eth-logo.svg)
-![Web3.js](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/web3/web3.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="48" height="48"/>
 
 #### 🌐 Web3 Tech Stack
 
