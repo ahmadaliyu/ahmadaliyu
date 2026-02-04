@@ -1,6 +1,6 @@
-### Hi! 👋, I'm Ahmad (Dimacode) 
+### Hi! 👋, I'm Ahmad (Notch) 
 
-I'm a software developer who love working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects
+I'm a **Web3/Blockchain Developer** who loves working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects in the blockchain ecosystem.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliyu&theme=aura_dark&show_icons=true&count_private=true)
 
@@ -8,57 +8,53 @@ I'm a software developer who love working as part of a team and meeting deadline
 
 #### :wink: More About Me 
 
-
-
-- 👯 I’m looking to collaborate on Blockchain technology and web 3.0 projects                           
-- 💬 Ask me anything about tech related and i'm happy to help
-- 📫 You can reach me out on LinkIdn 
+- 👯 I'm looking to collaborate on **Blockchain technology and Web 3.0 projects**                           
+- 💬 Ask me about **Web3, Smart Contracts, DeFi, NFTs** and I'm happy to help
+- 📫 You can reach me on LinkedIn: 
 [https://www.linkedin.com/in/ahmad-aliyu-b13345178](https://www.linkedin.com/in/ahmad-aliyu-b13345178)   
-or through my email  (aliyuahmad1996@gmail.com)
-- 😆 Fun fact: When i drink coffee i code alot!!   
+or through my email: **aliyuahmad1996@gmail.com**
+- 😆 Fun fact: When I drink coffee I code a lot!!   
 I Love Coding!!
 
-![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)      
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4ZjU5YjM5ZjZmZjY5ZjZmZjY5ZjZmZjY5ZjZmZjY5ZjZmZjY5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)      
 
-### 🔭 I’m currently working on:                    
+### 🔭 I'm currently working on:                    
 
-- Loopscribe mobile app (React Native)                  
-- My old projects
-- LearnSmart Mobile (React Native | Typescript)                       
+- **DeFi protocols** and **Smart Contract development**                  
+- **Web3 dApps** with Solidity and Rust
+- **Blockchain infrastructure** and **tokenomics design**                       
 
-### 🌱 I’m currently learning
+### 🌱 I'm currently learning
 
-- Software Engineering best practices
-- Design Systems
-- Data structures and Algorithm
+- **Advanced Smart Contract Security**
+- **Zero-Knowledge Proofs (ZKPs)**
+- **Layer 2 Scaling Solutions**
+- **Blockchain Architecture and Protocol Design**
 
 #### 📝 Latest publication
 
-![https://medium.com/@aliyuahmad1996/intelligent-tourist-information-system-936ae9462d86](https://medium.com/@aliyuahmad1996/intelligent-tourist-information-system-936ae9462d86)
+[Intelligent Tourist Information System](https://medium.com/@aliyuahmad1996/intelligent-tourist-information-system-936ae9462d86)
 
-#### 🔨 Languages and tools
+#### 🔨 Languages and Tools
 
-![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg)
+![JavaScript](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg)
+![TypeScript](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg)
+![Solidity](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/solidity/solidity.svg)
+![React](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg)
+![Node.js](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg)
+![Git](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg)
+![Ethereum](https://cryptologos.cc/logos/ethereum-eth-logo.svg)
+![Web3.js](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/web3/web3.svg)
+
+#### 🌐 Web3 Tech Stack
+
+- **Smart Contracts:** Solidity, Hardhat, Truffle, Foundry
+- **Blockchain Platforms:** Ethereum, Polygon, BSC, Arbitrum
+- **Web3 Libraries:** ethers.js, web3.js, wagmi
+- **Development Tools:** Remix, MetaMask, The Graph
+- **Frontend:** React, Next.js, TypeScript
 
 
 <!--
 **ahmadaliyu/ahmadaliyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
