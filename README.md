@@ -1,4 +1,4 @@
-### Hi! 👋, I'm Ahmad (Notch) 
+### Hi! 👋, I'm Aliyu (Notch) 
 
 I'm a **Web3/Blockchain Developer** who loves working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects in the blockchain ecosystem.
 
