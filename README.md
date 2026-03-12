@@ -1,4 +1,4 @@
-### Hi! 👋, I'm Aliyu (Web3Aliyu) 
+### Hi! 👋, I'm Aliyu (Web3Danejo) 
 
 I'm a **Web3/Blockchain Developer** who loves working as part of a team and meeting deadlines, excited to collaborate and contribute to open source projects in the blockchain ecosystem.
 
